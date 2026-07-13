@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Model files
+*.bin
+*.gguf
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
