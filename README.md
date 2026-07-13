@@ -25,6 +25,26 @@ TitanAI is an open-source AI assistant project designed to help with coding, wri
 - Problem Solving
 - Productivity Tools
 
+## Installation
+
+Coming soon.
+
+## Usage
+
+TitanAI helps with:
+- Coding
+- Writing
+- Research
+- Learning
+- Productivity
+
+## Roadmap
+
+See ROADMAP.md for future plans.
+
+## Community
+
+Contributions are welcome.
 ## Project Status
 
 🚀 Development Started
