@@ -12,8 +12,6 @@
   <img src="assets/logo.png" width="150">
 </p>
 
-# TitanAI 🤖
-
 TitanAI is an open-source AI assistant project designed to help with coding, writing, research, productivity, and problem solving.
 
 ## Features
@@ -27,7 +25,13 @@ TitanAI is an open-source AI assistant project designed to help with coding, wri
 
 ## Installation
 
-Coming soon.
+## Installation
+
+```bash
+ollama pull llama3.2
+ollama create titanai -f Modelfile
+ollama run titanai
+```
 
 ## Usage
 
@@ -37,7 +41,13 @@ TitanAI helps with:
 - Research
 - Learning
 - Productivity
+### Example Prompts
 
+- Write a Python calculator.
+- Create a YouTube script about Dubai.
+- Explain Artificial Intelligence.
+- Help me write SEO content.
+- 
 ## Roadmap
 
 See ROADMAP.md for future plans.
